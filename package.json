@@ -1,7 +1,7 @@
 {
   "name": "@camdh/node-pushnotifications",
   "description": "A cross-platform push service for node.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": {
     "name": "AppFeel",
     "email": "info@appfeel.com"
@@ -52,7 +52,7 @@
     "url": "https://github.com/CambridgeDigitalHealth/node-pushnotifications.git"
   },
   "dependencies": {
-    "@camdh/node-apn": "^1.0.0",
+    "@camdh/node-apn": "^1.0.1",
     "node-adm": "0.9.1",
     "@camdh/node-gcm": "^1.0.0",
     "ramda": "0.27.1",
