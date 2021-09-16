@@ -101,5 +101,8 @@
       "email": "mail@alexanderfriedl.com",
       "url": "https://github.com/alex-friedl"
     }
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
