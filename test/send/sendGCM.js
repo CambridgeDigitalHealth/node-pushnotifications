@@ -2,7 +2,7 @@
 import chai from 'chai';
 import sinon from 'sinon';
 import dirtyChai from 'dirty-chai';
-import gcm from 'node-gcm';
+import gcm from '@camdh/node-gcm';
 import PN from '../../src';
 import {
   sendOkMethodGCM,

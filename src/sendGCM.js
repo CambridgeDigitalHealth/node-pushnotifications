@@ -1,4 +1,4 @@
-const gcm = require('node-gcm');
+const gcm = require('@camdh/node-gcm');
 const R = require('ramda');
 const { DEFAULT_TTL, GCM_METHOD, GCM_MAX_TTL } = require('./constants');
 
