@@ -1,7 +1,7 @@
 {
-  "name": "node-pushnotifications",
+  "name": "@camdh/node-pushnotifications",
   "description": "A cross-platform push service for node.js",
-  "version": "1.7.1",
+  "version": "1.0.0",
   "author": {
     "name": "AppFeel",
     "email": "info@appfeel.com"
@@ -44,17 +44,17 @@
   ],
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/appfeel/node-pushnotifications",
+    "url": "https://github.com/CambridgeDigitalHealth/node-pushnotifications",
     "email": "info@appfeel.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/appfeel/node-pushnotifications.git"
+    "url": "https://github.com/CambridgeDigitalHealth/node-pushnotifications.git"
   },
   "dependencies": {
-    "@parse/node-apn": "4.1.1",
+    "@camdh/apn": "1.0.0",
     "node-adm": "0.9.1",
-    "node-gcm": "1.0.4",
+    "@camdh/node-gcm": "1.0.0",
     "ramda": "0.27.1",
     "web-push": "3.4.4",
     "wns": "0.5.4"
@@ -93,7 +93,7 @@
     }
   },
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/appfeel/node-pushnotifications",
+  "homepage": "https://github.com/CambridgeDigitalHealth/node-pushnotifications",
   "license": "MIT",
   "contributors": [
     {
