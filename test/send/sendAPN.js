@@ -6,7 +6,7 @@ import sinonChai from 'sinon-chai';
 import dirtyChai from 'dirty-chai';
 import { readFileSync } from 'fs';
 
-import apn from '@camdh/apn';
+import apn from '@camdh/node-apn';
 import PN from '../../src';
 import APN from '../../src/sendAPN';
 import {

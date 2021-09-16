@@ -1,4 +1,4 @@
-const apn = require('@camdh/apn');
+const apn = require('@camdh/node-apn');
 const R = require('ramda');
 const { DEFAULT_TTL, APN_METHOD } = require('./constants');
 
