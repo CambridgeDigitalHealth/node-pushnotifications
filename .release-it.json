@@ -5,6 +5,9 @@
   "npm": {
     "publish": true
   },
+  "git": {
+    "requireCleanWorkingDir": false
+  },
   "verbose": true,
   "dist": false
 }
